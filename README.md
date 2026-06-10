@@ -27,7 +27,7 @@ API Key 格式为 `sk_` + 32 位字符串。
 1. 将本仓库克隆到 Claude Code 的 skills 目录：
 
 ```bash
-git clone https://github.com/<your-username>/yuangongjuzhen-skill.git ~/.claude/skills/yuangongjuzhen
+git clone https://github.com/hqfeijian/yuangongjuzhen-skill.git ~/.claude/skills/yuangongjuzhen
 ```
 
 2. 安装 Python 依赖：
